@@ -97,7 +97,7 @@ python -m pip install -e .[dev]
 python -m pytest -q
 ruff check .
 mypy src
-python -m build --no-isolation
+python -m build
 ```
 
 See [CONTRIBUTING.md](CONTRIBUTING.md), [SECURITY.md](SECURITY.md), and the

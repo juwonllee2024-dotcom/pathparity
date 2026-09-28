@@ -2,6 +2,15 @@
 
 All notable changes to PathParity are documented here.
 
+## [0.1.1] - 2026-09-28
+
+### Fixed
+
+- Require a modern setuptools build backend so isolated Python 3.10–3.12 CI runners build the
+  package consistently.
+- Run the CI build in an isolated environment instead of depending on a runner’s preinstalled
+  packaging tools.
+
 ## [0.1.0] - 2026-09-28
 
 ### Added

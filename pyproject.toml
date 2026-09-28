@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "pathparity"
-version = "0.1.0"
+version = "0.1.1"
 description = "Find file-tree names that break on another operating system."
 readme = "README.md"
 requires-python = ">=3.10"

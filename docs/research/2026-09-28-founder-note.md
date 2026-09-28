@@ -52,7 +52,8 @@ The 7-day signal is whether maintainers keep the command in CI after one useful 
 - Added seven deterministic checks, text/JSON output, and exit codes.
 - Added tests, cross-platform CI, security policy, contribution guide, license, examples, and a
   verification record.
-- Published the repository and v0.1.0 release after local verification.
+- Published the repository and v0.1.0 release after local verification, then repaired the CI build
+  backend and prepared v0.1.1.
 
 ## Still unproven
 
