@@ -1,0 +1,8 @@
+# A deliberately unsafe logical tree for a demo.
+CON.txt
+docs/README.md
+docs/readme.md
+bad:name.txt
+notes.
+café.txt
+café.txt

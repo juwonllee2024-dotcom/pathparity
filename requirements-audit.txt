@@ -1,0 +1,2 @@
+# PathParity has no runtime dependencies. Audit the build backend used by the package build.
+setuptools>=68

@@ -1,0 +1,5 @@
+# A portable logical tree.
+README.md
+src/pathparity.py
+docs/usage.md
+assets/logo.svg
